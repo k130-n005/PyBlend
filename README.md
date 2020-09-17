@@ -1,2 +1,4 @@
 # PyBlend
-Adventure in programing, respository thatcontribute to the society by using an artificial in a visionary way.
+Learning journal for programing, 
+respository using an artificial and 3 domensions
+
